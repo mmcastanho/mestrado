@@ -266,7 +266,7 @@ source src1
 	## xmlpipe2 settings
 	#####################################################################
 
-	type			= xmlpipe
+	type			= xmlpipe2
 
 	# shell command to invoke xmlpipe stream producer
 	# mandatory
@@ -275,14 +275,7 @@ source src1
 
 	# xmlpipe2 field declaration
 	# multi-value, optional, default is empty
-	#
-	xmlpipe_field		= DOC
-	xmlpipe_field		= DOCNO
-	xmlpipe_field		= DOCID
-	xmlpipe_field		= DATE
-	xmlpipe_field		= CATEGORY
-	xmlpipe_field		= TEXT
-
+	
 	# xmlpipe2 attribute declaration
 	# multi-value, optional, default is empty
 	# all xmlpipe_attr_XXX options are fully similar to sql_attr_XXX

@@ -1,0 +1,23 @@
+Sphinx
+arquivo de configuração define:
+-> o esquema de entrada de dados: sql ou xml
+-> os locais onde serão salvos alguns arquivos (as pastas tem que existir)
+-> os tipos de index (normal, real-time, distribuido)
+-> onde o deamon de busca (searchd) irá escutar (porta 9306)
+
+searchd -c sphinx.conf (necessario parar deamon antes de reconectar)
+searchd --stop
+
+duas maneiras de fazer busca: API ou SQL
+
+usando sql: mysql -h0 -P9306
+
+problemas dos arquivos xml: 
+-> nao podem conter campos escritos com letra maiuscula.
+-> verificar que o arquivo encontra-se salvo com a codificação utf-8
+-> precisa-se de um esquema sphinx no documento:
+	* sphinx docset: no topo e no fim do documento
+	* sphinx document: antes de cada documento
+		-> possui uma id que deve ser única em toda a coleção.	
+	* sphinx schema: opcional, pode ser colocado no arquivo de configuraçao
+	
