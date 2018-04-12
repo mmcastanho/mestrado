@@ -21,3 +21,11 @@ problemas dos arquivos xml:
 		-> possui uma id que deve ser única em toda a coleção.	
 	* sphinx schema: opcional, pode ser colocado no arquivo de configuraçao
 	
+
+O que fazer:
+1 - transformar arquivos em xml modificados -> id numerico e nao repetido, tag minusculas
+2 - pesquisa manual usando os topicos. ver maneiras de fazer a busca
+3 - pegar resultados e fazer o relatório
+4 - utilizar stem br se possivel
+5 - variar modos de busca (bi-gram, proximidade)
+6 - 

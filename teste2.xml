@@ -2,27 +2,49 @@
 <sphinx:docset>
 
 <sphinx:schema>
-<sphinx:field name="subject"/>
 <sphinx:field name="content"/>
-<sphinx:attr name="published" type="timestamp"/>
-<sphinx:attr name="author_id" type="int" bits="16" default="1"/>
 </sphinx:schema>
 
-<sphinx:document id="1234">
-<content>this is the main content <![CDATA[[and this <cdata> entry
-must be handled properly by xml parser lib]]></content>
-<published>1012325463</published>
-<subject>note how field/attr tags can be
-in <b class="red">randomized</b> order</subject>
-<misc>some undeclared element</misc>
+<sphinx:document id="1">
+<content>dog rabbit cat horse cats dogs pig cow</content>
 </sphinx:document>
 
-<sphinx:document id="1235">
-<subject>another subject</subject>
-<content>here comes another document, and i am given to understand,
-that in-document field order must not matter, sir</content>
-<published>1012325467</published>
+<sphinx:document id="2">
+<content>cow cow cow pig pig</content>
 </sphinx:document>
+
+<sphinx:document id="3">
+<content>dog cat cat cat pig pig horse wolf fish wale seahorse lion tiger zebra monkey mouse</content>
+</sphinx:document>
+
+<sphinx:document id="4">
+<content>dog</content>
+</sphinx:document>
+
+<sphinx:document id="5">
+<content>dog dog dog</content>
+</sphinx:document>
+
+<sphinx:document id="6">
+<content>cat pig dog</content>
+</sphinx:document>
+
+<sphinx:document id="7">
+<content>wolf wolf fish fish</content>
+</sphinx:document>
+
+<sphinx:document id="8">
+<content>wolf cat</content>
+</sphinx:document>
+
+<sphinx:document id="9">
+<content>horse seahorse</content>
+</sphinx:document>
+
+<sphinx:document id="10">
+<content>seahorse</content>
+</sphinx:document>
+
 
 
 </sphinx:docset>
