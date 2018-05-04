@@ -1,0 +1,7 @@
+Usando libstemmer -> de 0.1772 para 0.1862
+usando quorom -> 0.1862 -> 0.1753
+usando quorom + desc -> 0.1388
+usando OR + desc (com remoçao de inicio e bad words) + stem : 0.1882
+
+usando quorom + desc (com remoçao de inicio e bad words) + stem : 0.1882
+
