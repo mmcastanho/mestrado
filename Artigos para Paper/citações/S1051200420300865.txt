@@ -1,0 +1,11 @@
+Hui Liu, Zhihao Long,
+An improved deep learning model for predicting stock market price time series,
+Digital Signal Processing,
+Volume 102,
+2020,
+102741,
+ISSN 1051-2004,
+https://doi.org/10.1016/j.dsp.2020.102741.
+(https://www.sciencedirect.com/science/article/pii/S1051200420300865)
+Abstract: As an important component of the economic market, the stock market has been concerned by many researchers. How to get the trend of the stock market and predict the stock price is a problem that many researchers are studying. In previous works, the prediction methods are mainly focused on statistical models and traditional neural network models which are relatively popular in recent years. Deep learning is not often used in the field of financial time series, but it has a strong learning ability and is suitable for complex time series such as financial time series. In particular, the LSTM network has the function of long-term memory because of its cyclic structure, so it is very suitable for financial time series prediction in theory. In the study, a novel stock closing price forecasting framework is proposed, which has a higher prediction than traditional models. The data processing part, the deep learning predictor part, and the predictor optimization method are the components of this deep hybrid framework. Data processing includes empirical wavelet transform (EWT) based preprocessing and outlier robust extreme learning machine (ORELM) model based post-processing. Long short-term memory (LSTM) network based deep learning network predictor, as the main part of the mixed frame, is jointly optimized by dropout strategy and particle swarm optimization (PSO) algorithm. Each algorithm in the hybrid framework can give full play to its own functions to achieve better prediction accuracy. In order to verify the performance of the model, three challenging datasets are selected for forecasting experiments. Some comparative models are also selected to prove the effectiveness of the proposed framework. Experimental results show that the hybrid framework proposed in the study has the best prediction accuracy and can be applied to stock market monitoring or financial data analysis and research.
+Keywords: Stock market price; Deep learning network; Time series forecasting; Data processing; Error correction

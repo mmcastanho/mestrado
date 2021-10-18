@@ -1,0 +1,11 @@
+Alex Plastun, Xolani Sibande, Rangan Gupta, Mark E. Wohar,
+Historical evolution of monthly anomalies in international stock markets,
+Research in International Business and Finance,
+Volume 52,
+2020,
+101127,
+ISSN 0275-5319,
+https://doi.org/10.1016/j.ribaf.2019.101127.
+(https://www.sciencedirect.com/science/article/pii/S0275531919307743)
+Abstract: This paper is a comprehensive investigation of the evolution of various monthly anomalies (January effect, December effect, and the Mark Twain effect) in the US stock market for its entire history. This is done using various statistical techniques (average analysis, Student's t-test, ANOVA, the Mann–Whitney test) and a trading simulation approach). To confirm our results we extended the analysis to the UK, Japan, Canada, France, Switzerland, Germany and Italy stock markets. The results indicate that the January effect was most prevalent in the US and that the December effect and the Mark Twain effect were never prevalent in the US. This result was confirmed in other markets as well. The January effect was most prevalent in the middle of the 20th century but has since disappeared. Furthermore, the January effect provided exploitable profit opportunities. Our results are consistent and add to the existing literature through the use of a complete history of the US market. Overall, the US stock market is consistent with the Adaptive Market Hypothesis.
+Keywords: Calendar anomalies; Month of the year effect; Stock market; Efficient Market Hypothesis; January effect; December effect; Mark Twain effect

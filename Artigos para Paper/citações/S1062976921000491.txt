@@ -1,0 +1,11 @@
+David G. McMillan,
+When and why do stock and bond markets predict US economic growth?,
+The Quarterly Review of Economics and Finance,
+Volume 80,
+2021,
+Pages 331-343,
+ISSN 1062-9769,
+https://doi.org/10.1016/j.qref.2021.03.004.
+(https://www.sciencedirect.com/science/article/pii/S1062976921000491)
+Abstract: We consider whether major financial variables predict key macroeconomic growth series. Full sample results suggest that aggregate stock returns and the 10-year minus 3-month term structure exhibit a positive and significant predictive effect on subsequent output, consumption and investment growth. Additionally, the change in the 3-month Treasury bill has predictive power for output and investment growth. Sub-sample analysis reveals that while the term structure exhibits relatively constant predictive power, that arising from stock returns largely occurs only during the great moderation period, whereas predictability from the change in the short-term rate largely arises in the period following the financial crisis. Results also reveal similarity in the predictive relations for output growth and investment growth but less so for consumption growth. Extending the analysis to include commodity, housing and the corporate bond markets, full sample results reveal limited additional predictive ability, with the REIT returns providing positive predictive power for output and investment growth over a one-quarter horizon and the default return doing likewise at the four-quarter horizon. Sub-sample results, however, reveal a change in the sign of the predictive coefficient around the dotcom bubble and crash period. As leading indicator measures include financial variables, these results, suggesting that the predictive relation is time-varying, are key for policy-makers.
+Keywords: Stock returns; Term structure; Interest rates; GDP growth; Consumption; Investment

@@ -1,0 +1,11 @@
+Laura Spierdijk, Zaghum Umar,
+Stocks for the long run? Evidence from emerging markets,
+Journal of International Money and Finance,
+Volume 47,
+2014,
+Pages 217-238,
+ISSN 0261-5606,
+https://doi.org/10.1016/j.jimonfin.2014.06.003.
+(https://www.sciencedirect.com/science/article/pii/S0261560614001090)
+Abstract: We estimate the myopic (single-period) and intertemporal hedging (long-run) demand for stocks in 20 growth-leading emerging market economies during the 1999–2012 period. We consider two types of investors: a domestic investor who invests in emerging-market assets only (with returns in local currency) and an international investor who invests in both US and emerging-market assets (with returns in US dollars). We establish economically relevant short-run and long-run demand for stocks in several emerging market economies, for both domestic and international investors. From a welfare perspective, however, the myopic demand for emerging-market stocks is much more important than the hedging demand. Further international diversification and foreign currency hedging by the international investor do not alter this conclusion. Hence, for both domestic and international investors emerging-market stocks are mainly assets for the short run.
+Keywords: Emerging-market stocks; Predictability; Myopic demand; Intertemporal hedging demand

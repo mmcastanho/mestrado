@@ -1,0 +1,11 @@
+Zhen He, Fergal O'Connor, Jacco Thijssen,
+Is gold a Sometime Safe Haven or an Always Hedge for equity investors? A Markov-Switching CAPM approach for US and UK stock indices,
+International Review of Financial Analysis,
+Volume 60,
+2018,
+Pages 30-37,
+ISSN 1057-5219,
+https://doi.org/10.1016/j.irfa.2018.08.010.
+(https://www.sciencedirect.com/science/article/pii/S105752191830526X)
+Abstract: This paper re-examines gold's role as a tool for investors to manage their portfolio risk. We begin by assessing gold's average relationship to an investor's diversified equity portfolio by applying the basic Capital Asset Pricing Model (CAPM) to UK and US equity indices. Next, we apply a Markov-switching CAPM to assess whether two distinct states exist between gold's relationship with the Market Portfolio. This approach allows the data to determine if two separate states exist and, if so, whether one state matches the definition of a Safe Haven from the literature. Using this new approach, we find that gold is consistently a Hedge, but that no distinct Safe Haven state exists between gold and UK or US stock markets.
+Keywords: Gold; Hedge; Safe Haven; CAPM; Beta; Markov-switching model; Stock markets; UK; US; FTSE100; S&P500

@@ -1,0 +1,11 @@
+Cengiz Toraman, Çağatay Başarir,
+The Long Run Relationship Between Stock Market Capitalization Rate and Interest Rate: Co-integration Approach,
+Procedia - Social and Behavioral Sciences,
+Volume 143,
+2014,
+Pages 1070-1073,
+ISSN 1877-0428,
+https://doi.org/10.1016/j.sbspro.2014.07.557.
+(https://www.sciencedirect.com/science/article/pii/S1877042814044851)
+Abstract: Two critical factors of economic growth are stock exchange and interest rate. This paper investigates the long run relationship between stock market capitalization rate and interest rates in Turkey over the period 1998-2012. Prior to conducting the analysis in a time series, in order to test the stability of the series, a unit root test was initially applied. It is determined that both stock market capitalization rate and interest rate series are not stationary. Long-run relationship is tested by Johansen Co-integration tests. According to the results of the study, there is long-run relationship between stock market capitalization rate and interest rates.
+Keywords: Stock Market Capitalization Rate; Interest rates; Cointegration; VAR ;

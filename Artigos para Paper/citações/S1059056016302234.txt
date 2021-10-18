@@ -1,0 +1,11 @@
+Filipe Stona, Igor A.C. Morais, Divanildo Triches,
+Economic dynamics during periods of financial stress: Evidences from Brazil,
+International Review of Economics & Finance,
+Volume 55,
+2018,
+Pages 130-144,
+ISSN 1059-0560,
+https://doi.org/10.1016/j.iref.2018.02.006.
+(https://www.sciencedirect.com/science/article/pii/S1059056016302234)
+Abstract: This paper investigates the differences in macroeconomic dynamics that occurred during instabilities in the Brazilian financial market from 2000 to 2015. In this regard, we introduced the Brazil Financial Stress Index as a proxy for financial stress, and investigated its interaction with real activity, inflation and monetary policy using a Markov-switching VAR model. We could verify distinct economic reactions during stressful periods. Furthermore, our results demonstrate that appropriate policies for some countries in normal times, such as an expansionary monetary policy, can worsen the scenario in an adverse situation, indicating that a government might deepen a financial crisis if policy-makers implements a policy used successfully during a regime that is economically and behaviorally dissimilar from tense states.
+Keywords: Financial instability; Financial Stress Index; Macroeconomic dynamic; Markov switching; Monetary policy; Emerging markets

@@ -1,0 +1,11 @@
+Biao Guo, Xingguo Luo, Ziding Zhang,
+Sell in May and Go Away: Evidence from China,
+Finance Research Letters,
+Volume 11, Issue 4,
+2014,
+Pages 362-368,
+ISSN 1544-6123,
+https://doi.org/10.1016/j.frl.2014.10.001.
+(https://www.sciencedirect.com/science/article/pii/S1544612314000579)
+Abstract: Using the Chinese stock market data from 1997 to 2013, this paper examines the “Sell in May and Go Away” puzzle first identified by Bouman and Jacobsen (2002). We find strong existence of the Sell in May effect, robust to different regression assumptions, industries, and after controlling for the January or February effect. However, part of the puzzle is subsumed by the seasonal affective disorder effect. We then construct a trading strategy based on this puzzle, and find that it outperforms the buy-and-hold strategy and could resist the market downside risk during large recession periods.
+Keywords: Sell in May effect; Chinese stock market; Seasonal affective disorder; Downside risk

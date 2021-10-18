@@ -1,0 +1,10 @@
+J. Christy Jackson, J. Prassanna, Md. Abdul Quadir, V. Sivakumar,
+Stock market analysis and prediction using time series analysis,
+Materials Today: Proceedings,
+2021,
+,
+ISSN 2214-7853,
+https://doi.org/10.1016/j.matpr.2020.11.364.
+(https://www.sciencedirect.com/science/article/pii/S2214785320389823)
+Abstract: Over the years the stock market has been considered a very risky investment by people around the globe. This project aims to understand the historical data of the stock market and derive analysis from it to reduce the gap of knowledge between the market behavior and the investor. A stock data comprises of a lot of statistical terms which are difficult to understand by a normal person who wants to step into stock market investments, this project aims at reducing the gap of knowledge. This study aims to tell the market scenario of the future by supporting it with statistical answers. Stock market volatility, Daily returns, cumulative returns, Correlations between different stocks, Sharpe Ratio of the stocks, CAGR value, Simple Moving Average are some important statistical terms to understand the risk of the investment in the stocks. For the prediction of the future behavior of stocks work on ARIMA models, Monte Carlo Method and Forecasting using Facebook's prophet library have been used here.
+Keywords: ARIMA; Monte-Carlo; Fbprophet; Cumulative return; Volatility; CAGR; Sharpe ratio

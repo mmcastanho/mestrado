@@ -1,0 +1,11 @@
+Yang An, Mei Sun, Cuixia Gao, Dun Han, Xiuming Li,
+Analysis of the impact of crude oil price fluctuations on China’s stock market in different periods—Based on time series network model,
+Physica A: Statistical Mechanics and its Applications,
+Volume 492,
+2018,
+Pages 1016-1031,
+ISSN 0378-4371,
+https://doi.org/10.1016/j.physa.2017.11.032.
+(https://www.sciencedirect.com/science/article/pii/S037843711731107X)
+Abstract: This paper studies the influence of Brent oil price fluctuations on the stock prices of China’s two distinct blocks, namely, the petrochemical block and the electric equipment and new energy block, applying the Shannon entropy of information theory. The co-movement trend of crude oil price and stock prices is divided into different fluctuation patterns with the coarse-graining method. Then, the bivariate time series network model is established for the two blocks stock in five different periods. By joint analysis of the network-oriented metrics, the key modes and underlying evolutionary mechanisms were identified. The results show that the both networks have different fluctuation characteristics in different periods. Their co-movement patterns are clustered in some key modes and conversion intermediaries. The study not only reveals the lag effect of crude oil price fluctuations on the stock in Chinese industry blocks but also verifies the necessity of research on special periods, and suggests that the government should use different energy policies to stabilize market volatility in different periods. A new way is provided to study the unidirectional influence between multiple variables or complex time series.
+Keywords: Crude oil prices; China’s blocks stock; Bivariate time series network model; Time delay; Coupling degree

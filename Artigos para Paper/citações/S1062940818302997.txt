@@ -1,0 +1,11 @@
+Dervis Kirikkaleli,
+The effect of domestic and foreign risks on an emerging stock market: A time series analysis,
+The North American Journal of Economics and Finance,
+Volume 51,
+2020,
+100876,
+ISSN 1062-9408,
+https://doi.org/10.1016/j.najef.2018.11.005.
+(https://www.sciencedirect.com/science/article/pii/S1062940818302997)
+Abstract: This study investigates the effect of domestic factors – economic, financial and political risk – and foreign factors – global economic policy uncertainty – on the stock market index in Taiwan. To achieve the objective of this study, ARDL, DOLS and Markov Switching tests are employed. Quarterly data is used, covering the period 1997Q1–2015Q2. The findings reveal that the combination of domestic and foreign risk factors has a long-term effect on the stock market index. In addition, declining economic, political and financial risks are associated with the increasing stock market index in Taiwan.
+Keywords: Stock market; Emerging market; Taiwan; ARDL; DOLS; Markov switching

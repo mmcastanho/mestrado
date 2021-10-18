@@ -1,0 +1,11 @@
+Tsung-Cheng Chen, Chin-Chen Chien,
+Size effect in January and cultural influences in an emerging stock market: The perspective of behavioral finance,
+Pacific-Basin Finance Journal,
+Volume 19, Issue 2,
+2011,
+Pages 208-229,
+ISSN 0927-538X,
+https://doi.org/10.1016/j.pacfin.2010.10.002.
+(https://www.sciencedirect.com/science/article/pii/S0927538X10000636)
+Abstract: This study aims to explain the size effect in January with the utilization of some theoretical arguments drawn from behavioral finance, such as mental accounting and house money, in a Chinese culture-oriented emerging stock market. Under Chinese tradition, employees are rewarded with a generous bonus before Lunar New Year, most often paid in January. This gain, analogous to the concept of house money, enhances the propensity to bear increased levels of risk, which in turn stimulates the demand for higher risk securities, particularly in a market that is mainly dominated by individual investors, as in Taiwan. The empirical results are consistent with our culture bonus hypothesis, that only small firms with higher risk in the Taiwanese stock market exhibit the apparent size effect in January, especially for the years when the bonus payments were in January and when the whole market had positive performance growth in the preceding year.
+Keywords: Size effect in January; Behavioral finance; Risk aversion; Culture bonus

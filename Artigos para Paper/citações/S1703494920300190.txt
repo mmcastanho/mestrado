@@ -1,0 +1,11 @@
+Bouteska Ahmed,
+Understanding the impact of investor sentiment on the price formation process: A review of the conduct of American stock markets,
+The Journal of Economic Asymmetries,
+Volume 22,
+2020,
+e00172,
+ISSN 1703-4949,
+https://doi.org/10.1016/j.jeca.2020.e00172.
+(https://www.sciencedirect.com/science/article/pii/S1703494920300190)
+Abstract: Applying both survey-based and market-based measures, we examined how investor sentiment affects the way with which prices reflect information and whether or not it manifests itself in the trading behavior of investors in the U.S. stock market. We also compared the effect of investor sentiment on several U.S. stock market indices. Our research improves our understanding of the price formation process when supporting the notion that sentiment-induced buying and selling is an important determinant of stock price variation. Our research design is novel as it suggests that sentiment-driven traders may not be as irrational as is presupposed in classical asset pricing and it provides more comprehensive statistical evidence on the impact of differing types of sentiment on the price formation process, especially in the various U.S. stock market indices. We consider that sentiment is linked to shifts in risk tolerance and this triggers contrarian-type behavior. Given this, using an EGARCH parameter estimation, we have shown the following concerning the behavior of sentiment driven investors; (i) They are more motivated to trade on survey-based indicators than market based indicators, (ii) They respond asymmetrically to shifts in sentiment and trade more aggressively during periods of declining sentiment, (iii) They respond asymmetrically to sentiment measures when incorporating the possible impact of market conditions and business cycles on trading behavior.
+Keywords: Behavioral finance; Investor sentiment; Asset pricing; Stock buying and selling decisions; U.S. stock markets

@@ -1,0 +1,11 @@
+Zhongdong Chen, Phillip R. Daves,
+The January sentiment effect in the U.S. stock market,
+International Review of Financial Analysis,
+Volume 59,
+2018,
+Pages 94-104,
+ISSN 1057-5219,
+https://doi.org/10.1016/j.irfa.2018.07.008.
+(https://www.sciencedirect.com/science/article/pii/S1057521918302990)
+Abstract: We document the January sentiment effect in the U.S. stock market over the 1978–2017 period where January sentiment of individual investors has a significant impact on their asset allocation decisions and therefore, stock market returns from February to December. This effect is not likely driven by the other January effect and it appears to concentrate on riskier stocks including smaller stocks, higher market-to-book ratio stocks, and stocks with worse firm performance.
+Keywords: January sentiment; Stock return anomalies

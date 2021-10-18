@@ -1,0 +1,11 @@
+Cherry Y. Zhang, Ben Jacobsen,
+The Halloween indicator, “Sell in May and Go Away”: Everywhere and all the time,
+Journal of International Money and Finance,
+Volume 110,
+2021,
+102268,
+ISSN 0261-5606,
+https://doi.org/10.1016/j.jimonfin.2020.102268.
+(https://www.sciencedirect.com/science/article/pii/S0261560620302242)
+Abstract: To answer the sceptics, we use all historical data (62962 observations) on all stock market indices worldwide to verify the robustness of the so-called Halloween Indicator or Sell in May effect. The effect seems remarkably robust with returns on average 4% higher during November-April period than during May-October. A new test for the effect offers some additional insights. Worldwide excess returns during summer seem negative (around −1%) and often significantly so suggesting a flat or negative risk return relation. Only for Mauritius do we find a significantly positive risk return relation during May-October. Our dataset also allows for a new (upper bound) estimate for the equity premium of around 4%.
+Keywords: Sell in May; Long time series data; Seasonal anomalies; Halloween indicator

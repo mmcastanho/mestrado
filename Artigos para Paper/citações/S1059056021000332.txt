@@ -1,0 +1,11 @@
+Afees A. Salisu, Xuan Vinh Vo,
+The behavior of exchange rate and stock returns in high and low interest rate environments,
+International Review of Economics & Finance,
+Volume 74,
+2021,
+Pages 138-149,
+ISSN 1059-0560,
+https://doi.org/10.1016/j.iref.2021.02.008.
+(https://www.sciencedirect.com/science/article/pii/S1059056021000332)
+Abstract: In this paper, we contribute to the literature in the following ways. First, we test whether stock returns respond differently to exchange rates in high and low interest rate environments. Second, we further probe into possible asymmetric effects of appreciation and depreciation on stock returns. Third, we examine the role of extreme (negative) low interest rate in the nexus among the low interest rate economies. Using panel data procedures that account for the salient features of the relevant variables, the following are discernible from the analyses. First, we establish contrasting evidence between low and high interest rate environments in relation to short run & long run results. Second, we find that the low interest rate group exhibits long run positive nexus while the high interest rate counterpart predominantly reveals short run negative nexus. Third, we show that all these outcomes remain true whether or not we account for the roles of macroeconomic factors including interest rate, inflation, and global oil price and alternative data frequency. Some insightful implications of our findings are highlighted and we do hope that investors and policy makers will find the results useful for decision making purpose.
+Keywords: Exchange rate; Stocks returns; Interest rate environment; Asymmetry; Panel data methods

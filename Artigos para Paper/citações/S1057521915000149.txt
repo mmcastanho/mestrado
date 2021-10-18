@@ -1,0 +1,11 @@
+Hubert Dichtl, Wolfgang Drobetz,
+Sell in May and Go Away: Still good advice for investors?,
+International Review of Financial Analysis,
+Volume 38,
+2015,
+Pages 29-43,
+ISSN 1057-5219,
+https://doi.org/10.1016/j.irfa.2014.09.007.
+(https://www.sciencedirect.com/science/article/pii/S1057521915000149)
+Abstract: This study examines whether the “Sell in May and Go Away” (or Halloween) trading strategy still offers an opportunity to earn abnormal returns. In contrast to prior studies, we consider sample periods during which adequate investment instruments were available for an effective implementation of the Halloween strategy. In addition, we account for when the first study confirming the Halloween effect was published in a top academic journal. To use the limited data in the most efficient way, and to avoid possible data-snooping biases, we implement a bootstrap simulation approach. We find that the Halloween effect strongly weakened or even disappeared in recent years. Our results are robust across different markets and against various parameter variations. Overall, our findings support the theory of efficient capital markets.
+Keywords: Sell in May; Halloween effect; Anomaly; Bootstrap simulation
